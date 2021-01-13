@@ -1,6 +1,6 @@
 # javascript-array-contains
 
-The includes() method determines whether a <a href="https://askavy.com/javascript-contains-array/">javascript array contains</a> a specified element.
+The includes() method determines whether a javascript array contains a specified element.
 
 This method returns true if the array contains the element, and false if element not exist in array.
 
